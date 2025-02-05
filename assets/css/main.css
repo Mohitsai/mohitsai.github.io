@@ -2374,8 +2374,11 @@ input, select, textarea {
 	}
 
 		.image img {
-			border-radius: 8px;
-			display: block;
+			/* border-radius: 8px; */
+			/* display: block; */
+			width: 100%;
+			height: auto;
+			object-fit: contain;
 		}
 
 		.image.left, .image.right {
@@ -3087,13 +3090,13 @@ input, select, textarea {
 		.spotlight .image {
 			display: inline-block;
 			padding: 0.65em;
-			border-radius: 100%;
+			/* border-radius: 100%; */
 			border: solid 1px;
 		}
 
 			.spotlight .image img {
 				display: block;
-				border-radius: 100%;
+				/* border-radius: 100%; */
 				width: 16em;
 			}
 
