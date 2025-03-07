@@ -36,7 +36,22 @@
 	gtag('config', 'G-3L4FRT1ZWC');
 	</script>
 	<body class="is-preload">
-
+		<script>
+		document.querySelectorAll("a").forEach(link => {
+			link.addEventListener("click", (event) => {
+				let url = new URL(link.href);
+				let source = url.searchParams.get("utm_source") || "unknown";
+				let medium = url.searchParams.get("utm_medium") || "unknown";
+		
+				gtag('event', 'link_click', {
+					'event_category': 'navigation',
+					'event_label': url.href,
+					'utm_source': source,
+					'utm_medium': medium
+				});
+			});
+		});
+	</script>
 		<!-- Wrapper -->
 			<div id="wrapper">
 
