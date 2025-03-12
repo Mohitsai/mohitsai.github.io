@@ -4,7 +4,7 @@ function gtag(){dataLayer.push(arguments);}
 gtag('js', new Date());
 
 // Replace with your Google Analytics ID
-gtag('config', 'G-Q9GE95LF3X', { 
+gtag('config', 'G-3L4FRT1ZWC', { 
     'send_page_view': true,
     'anonymize_ip': true, 
     'allow_google_signals': true, 
