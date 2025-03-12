@@ -54,7 +54,11 @@ Feel free to reach out via **[LinkedIn](https://www.linkedin.com/in/mohitsaiguth
 <div align="center">
   <img src="https://github.com/Mohitsai/mohitsai.github.io/assets/demo.gif" width="810"/>
 </div>
+
 ---
 
 **© 2025 Mohit Sai Gutha** | Built using HTML, CSS & JavaScript
+
+## 🎥 Demo
+![Portfolio Demo](https://github.com/Mohitsai/mohitsai.github.io/blob/main/assets/demo.gif)
 
