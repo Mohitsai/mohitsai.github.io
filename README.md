@@ -51,6 +51,9 @@ I’m glad that many people are finding this portfolio useful (Ironic but this i
 ## Contact
 Feel free to reach out via **[LinkedIn](https://www.linkedin.com/in/mohitsaigutha/)** or **[Email](mailto:mohit.sai6@gmail.com)** if you have any questions or suggestions!
 
+<div align="center">
+  <img src="https://github.com/Mohitsai/mohitsai.github.io/assets/demo.gif" width="810"/>
+</div>
 ---
 
 **© 2025 Mohit Sai Gutha** | Built using HTML, CSS & JavaScript
